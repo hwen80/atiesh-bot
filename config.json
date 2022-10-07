@@ -1,0 +1,8 @@
+{
+	"BOT_TOKEN": "SECRET",
+	"USER_ID": "SECRET",
+	"PREFIX": "!",
+	"DB_USER": "SECRET",
+	"DB_PASS" : "SECRET",
+	"DB_KEY": "atiesh_frags"
+}
